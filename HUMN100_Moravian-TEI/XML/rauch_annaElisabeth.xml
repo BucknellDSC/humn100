@@ -118,7 +118,7 @@
       <body xml:lang="en">
          <div type="memoir">
             <head type="memoir">Anna Elizabeth Rauch</head>
-            <docAuthor>ADD EDITOR NAMES BETWEEN THESE TAGS AND DELETE THIS TEXT</docAuthor>
+            <docAuthor>Brendan Matthys, Olivia Smith</docAuthor>
             <div type="page" n="1">
                <head type="page" ana="MemBeth_0102-01">1
                </head>
@@ -130,7 +130,7 @@
                   till the year 1762.</date>
                   <lb />
                   <date>in the year 1756 the 18th of Novem.</date> 
-                  she took lief of the Congrigation Congregation
+                  she took lief of the Congrigation 
                   in <placeName>Bethlehem</placeName> with manny a 
                   hundred Sinner Tears and set 
                   besides her Husband, me and
@@ -143,10 +143,10 @@
                   to him and believed He would
                   bring us safe on land--
                   <date>the 24th Dec</date>. When we came
-                  for ancor at Portugal [Port Royal?]
+                  for ancor at <placeName>Port Royal</placeName>
                   near <placeName>Kingston in Jamaica</placeName>.
                   She was so <name type="emotion">rejoiced</name> in his Heart,
-                  that she prosterrated  prostrated her
+                  that she prosterrated her
                   self before our <persName>Savior</persName> under
                   manny a Thousand Tears
                   and Thank'd him Humble for
@@ -166,7 +166,7 @@
                   wife went home to our <persName>Dear
                   Savior</persName>, <name>Sister Anna</name> was not to
                   be comforted because she found
-                  herself now quit(e) alone without
+                  herself now quit alone without
                   anny  assistents of hir sect
                   She retired for some Days
                   To <placeName>Carmel</placeName> (which is our own
@@ -226,9 +226,9 @@
                   beloved one and rest of 
                   all his Labor. Hir
                   Hosbend Husband was severel Times
-                  obld (obliged?) to live hir at home
+                  obld to live hir at home
                   | when visiting the Negroes |
-                  on aet?? of hir Illnes which
+                  on aet?? of hir <name type='health'>Illnes</name> which
                   She took much to Heart.
                   in the <date>beginning of July</date> she,
                   was so <name type='health'>ill</name> that she hardly
@@ -302,7 +302,7 @@
                   soon after she began to 
                   be ill again, so that she
                   was forced in the <date>beginning
-                  of augustto</date> keep hirself
+                  of august to</date> keep hirself
                   in bed; from that Time 
                   she was from Morning
                </p>
@@ -322,7 +322,7 @@
                   piness Enjoy I &amp; every
                   Body who came to see
                   her she recommends 
-                  the wounds of Christto 
+                  the wounds of <persName>Christ</persName> to 
                   be recconciled with him
                   and so fort on <date>the 12th</date> 
                   she called her husband and 
